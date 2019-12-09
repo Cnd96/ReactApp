@@ -1,0 +1,29 @@
+.Morning{
+    background:linear-gradient(to right, #1a2980, #009fff);
+}
+.MorningBGColor{
+    background-color: #1a2980
+}
+.Afternoon{
+    // background:linear-gradient(to right, #c21500, #f7b733);
+    background:linear-gradient(to right, #4b6cb7, #1d2b64)
+}
+.AfternoonBGColor{
+    // background-color: #c21500
+    background-color: #1d2b64
+}
+.Evening{
+    background:linear-gradient(to right, #102F5D, #26a0da);
+    // background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+.EveningBGColor{
+    background-color: #102F5D
+    // background-color: #480048
+}
+.Night{
+    background:linear-gradient(to right, #1f1c2c, #928dab);
+}
+.NightBGColor{
+    background-color: #1f1c2c
+}
+
